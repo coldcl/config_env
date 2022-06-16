@@ -7,6 +7,9 @@ set autoindent
 set cindent
 "set expandtab
 
+hi Search ctermbg=LightYellow
+hi Search ctermfg=Red
+
 syntax enable
 syntax on
 filetype plugin indent on
