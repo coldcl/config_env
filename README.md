@@ -13,7 +13,7 @@ https://github.com/coldcl/ohmyzsh
 	cd ~/config/bin
 	git clone https://github.com/so-fancy/diff-so-fancy diffsofancy
 	chmod +x diffsofancy/diff-so-fancy
-	ln -s ~/config/bin/diffsofancy/diff-so-fancy ~/config/bin/diff-so-fancy
+	ln -s ~/config/diffsofancy/diff-so-fancy ~/config/bin/diff-so-fancy
 
 ## 3. ghidra
 https://github.com/coldcl/ghidra
